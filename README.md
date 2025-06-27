@@ -1,2 +1,3 @@
 # Data-Mining-Project--Clustering-of-metallic-alloys
-Data Mining Project -Clustering of metallic alloys based on their chemical composition and thermophysical properties
+
+This project consists of clustering metallic alloys based on their chemical composition and thermophysical properties
